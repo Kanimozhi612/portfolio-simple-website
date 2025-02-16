@@ -1,6 +1,6 @@
 # Portfolio Website | [Kanimozhi]
 
-This is my personal portfolio website showcasing my skills and experience as a **Junior Web Developer**. The website consists of two pages:  
+Welcome to my portfolio website! This is my personal portfolio website showcasing my skills and experience as a **Junior Web Developer**. The website consists of two pages:  
 
 - **Home:** Overview of my skills and projects.  
 - **Contact:** Ways to get in touch with me.  
