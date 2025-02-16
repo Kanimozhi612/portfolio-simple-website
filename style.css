@@ -1,0 +1,125 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+
+}
+
+.section-one__contact {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section-one__name {
+    font-size: 60px;
+    color: rgb(79, 85, 180);
+    text-decoration: none;
+}
+
+.section-one__role {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-two,
+.section-three,
+.section-four.section-five {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section-two__des,
+.section-three__des,
+.section-four__des,
+.section-five__des {
+    margin-top: 10px;
+}
+
+.section-five {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.section-five__title a {
+    color: skyblue;
+
+}
+
+.section-three li,
+.section-four li {
+    list-style: none;
+}
+
+.section-three {
+
+    height: 140px;
+    background-color: blueviolet;
+    color: black;
+    border-radius: 10px;
+    padding: 30px;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.section-four {
+
+    height: 140px;
+    background-color: orangered;
+    color: black;
+    border-radius: 10px;
+    padding: 30px;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+.contact-form{
+    margin-top: 20px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+margin-top: 10px;
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    border: none;
+}
