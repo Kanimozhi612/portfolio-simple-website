@@ -1,4 +1,4 @@
-# MY Portfolio Website | Kanimozhi
+# My Portfolio Website | Kanimozhi
 
 Welcome to my portfolio website! This is my personal portfolio website showcasing my skills and experience as a **Junior Web Developer**. The website consists of two pages:  
 
