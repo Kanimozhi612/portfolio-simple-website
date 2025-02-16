@@ -1,2 +1,16 @@
-# portfolio-simple-website
-I am a Junior Web Developer with a Computer Science degree, experienced in HTML, CSS, JavaScript, and e-commerce. Currently learning Full Stack Development at Error Makes Clever Academy. This portfolio showcases my projects, skills, and experience in web development. Check out my work and connect with me.
+# Portfolio Website | [Kanimozhi]
+
+This is my personal portfolio website showcasing my skills and experience as a **Junior Web Developer**. The website consists of two pages:  
+
+- **Home:** Overview of my skills and projects.  
+- **Contact:** Ways to get in touch with me.  
+
+## 🔹 Technologies Used  
+- **HTML**  
+- **CSS**  
+  
+## 🔹 How to View  
+You can view the website by:  
+1. Cloning the repository:  
+   ```bash
+  
